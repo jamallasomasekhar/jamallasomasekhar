@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Somasekhar—a DevOps Engineer with 1.6+ years of expertise in AWS, GCP, Azure DevOps, and CI/CD pipelines. Proficient in automation, cloud migration, and Linux system administration. Proven track record of optimizing application performance, accelerating deployments, and implementing robust monitoring solutions. Eager to bring my technical skills and passion for DevOps to a challenging new role."
+Hi, I’m Somasekhar—a DevOps Engineer with 2 + years of expertise in AWS, GCP, Azure DevOps, and CI/CD pipelines. Proficient in automation, cloud migration, and Linux system administration. Proven track record of optimizing application performance, accelerating deployments, and implementing robust monitoring solutions. Eager to bring my technical skills and passion for DevOps to a challenging new role."
 
 
 ## 🌐 Socials:
